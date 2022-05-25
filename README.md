@@ -118,8 +118,8 @@ Testing has been done using cypress.
 
 1. Install Cypress.
    > `npm install —save-dev cypress`
-   > Install Cypress on desktop: https://www.cypress.io/.
-2. Run dev and server
+   > Install Cypress on desktop: https://www.cypress.io/
+2. Run dev and server.
    > `npm run dev` and `npm run server-start`
 3. Run Cypress on desktop and locate `integration` folder.
 
