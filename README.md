@@ -77,7 +77,7 @@ The profile page consists of a users information, badges earned and favorited ac
 ## Back-End Structure
 This is a database structure in which all classes, recipes, and workouts data are linked and managed through an activity table that serves as a great hub. The database is built in such a way that future implementations can be easily added by adding a relationship between the new table and activities table. Thanks to this structure, we are able to consolidate all of the different features (i.e. recipes, workouts, classes) into a single GET request, thus allowing the front end team to create many different activities through a single card component.
 >>
-![gymx5000-2(reduced)](https://user-images.githubusercontent.com/25275753/169428763-736928fa-e56f-4d35-b7e1-541f54c950c6.png)
+![gymx5000-2(reduced)](https://lh3.googleusercontent.com/yWL0--jVHMkZ1mTGSC55UAHazTylmGtUWkAIGQ5XPwyb5b9xmeWaIMd85Z-mrkGoYbtm6kIgHsvCDraGw8uG34ximruVYFxzgKkX8PxI2EH0lSnaPcMq2MbXBp695PaWf1yAoGX3OQ=w2400)
 
 <br/>
 
